@@ -18,6 +18,7 @@
   }
   .header .title {
     margin: 0 auto;
+    line-height: 0.6 !important;
   }
   .header input, .header label {
     display: none;

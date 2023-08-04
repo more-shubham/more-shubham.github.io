@@ -5,22 +5,14 @@
     user-select: none;
 }
 
-/* width */
 ::-webkit-scrollbar {
     width: 10px;
 }
 
-/* Track */
-::-webkit-scrollbar-track {
-    // background: var(--fg-color);
-}
-
-/* Handle */
 ::-webkit-scrollbar-thumb {
     background: var(--bg-color);
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: var(--bg-color-cv);
 }
