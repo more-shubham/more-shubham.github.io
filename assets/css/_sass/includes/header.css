@@ -8,7 +8,7 @@
   color: var(--fg-color-dark);
   font-weight: bolder;
   text-transform: uppercase;
-  line-height: 0.2;
+  line-height: 0.6;
 }
 .header .work {
   color: var(--fg-color-title-sm);

@@ -1,3 +1,7 @@
+body .container .sidebar .header {
+  display: none;
+}
+
 @media screen and (max-width: 1024px) {
   body {
     background-color: var(--bg-color-cv);
@@ -13,14 +17,25 @@
   .container .container-block {
     display: block;
   }
+  .container .sidebar .header {
+    display: block !important;
+    padding: 20px 0 15px 0;
+  }
+  .container .main .header {
+    display: none;
+  }
   .header {
     display: block;
   }
   .header .title {
     margin: 0 auto;
-    line-height: 0.6 !important;
   }
-  .header input, .header label {
+  .header input {
     display: none;
+  }
+  .header label {
+    position: absolute;
+    top: 25px;
+    right: 15px;
   }
 }/*# sourceMappingURL=responsive.css.map */
