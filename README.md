@@ -21,8 +21,20 @@ Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavr
 
 Go to https://username.github.io/jekyll-cv/
 
-## Contributing 
+## Contributing
 - Feel free to open issues and create pull requests for new features or skins
 
 ## License
 - [MIT](./LICENSE)
+
+
+
+# Task
+- Add Hobbies
+- Format Skills like this,
+    - top skills
+    - languages
+    - frameworks
+    - Database
+    - Other Tools
+- change scrolles style

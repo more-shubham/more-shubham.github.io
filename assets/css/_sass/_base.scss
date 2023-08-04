@@ -2,7 +2,28 @@
     font-family: 'Helvetica', 'Arial', sans-serif;
     text-align: justify;
     line-height: 1.5;
+    user-select: none;
 }
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    // background: var(--fg-color);
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: var(--bg-color);
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--bg-color-cv);
+  }
 
 body {
     background-color: var(--bg-color);
@@ -23,8 +44,5 @@ body {
         padding:20px;
         display: grid;
         grid-template-columns: 2fr 5fr;
-        .sidebar {
-            margin-top: 20px;
-        }
     }
 }

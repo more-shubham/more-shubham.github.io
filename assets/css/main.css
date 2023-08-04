@@ -2,6 +2,25 @@
   font-family: "Helvetica", "Arial", sans-serif;
   text-align: justify;
   line-height: 1.5;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--bg-color);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--bg-color-cv);
 }
 
 body {
@@ -25,9 +44,6 @@ body {
   display: grid;
   grid-template-columns: 2fr 5fr;
 }
-.container .container-block .sidebar {
-  margin-top: 20px;
-}
 
 @media print {
   @page {
@@ -35,7 +51,6 @@ body {
   }
   .container {
     margin: 0;
-    padding: 0;
     box-shadow: none;
     background-color: #ffffff;
     width: 1000px;
@@ -91,7 +106,6 @@ body {
 }
 
 .header {
-  width: 90%;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -101,6 +115,15 @@ body {
   color: var(--fg-color-dark);
   font-weight: bolder;
   text-transform: uppercase;
+  line-height: 0.2;
+}
+.header .work {
+  color: var(--fg-color-title-sm);
+  font-weight: bolder;
+  text-transform: uppercase;
+  line-height: 0;
+  font-size: 16px;
+  font-weight: bolder;
 }
 .header input[type=checkbox] {
   width: 0;
@@ -379,4 +402,14 @@ body {
 .volunteering .volunteering-item .details {
   color: var(--fg-color-body);
   font-size: 14px;
+}
+
+.avatar {
+  margin: 0 0 20px 0;
+}
+.avatar img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 2px solid var(--fg-color);
 }/*# sourceMappingURL=main.css.map */
