@@ -1,5 +1,5 @@
 * {
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: "Helvetica", "Arial", sans-serif;
     text-align: justify;
     line-height: 1.5;
     user-select: none;
@@ -8,22 +8,22 @@
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
-  }
+}
 
-  /* Track */
-  ::-webkit-scrollbar-track {
+/* Track */
+::-webkit-scrollbar-track {
     // background: var(--fg-color);
-  }
+}
 
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
+/* Handle */
+::-webkit-scrollbar-thumb {
     background: var(--bg-color);
-  }
+}
 
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
     background: var(--bg-color-cv);
-  }
+}
 
 body {
     background-color: var(--bg-color);
@@ -34,14 +34,14 @@ body {
     min-height: 900px;
     margin: 0 auto;
     background-color: var(--bg-color-cv);
-    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
-    padding:30px;
-    margin-top:30px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    margin-top: 30px;
     margin-bottom: 30px;
     .container-block {
         width: 90%;
         margin: 0 auto;
-        padding:20px;
+        padding: 20px;
         display: grid;
         grid-template-columns: 2fr 5fr;
     }
