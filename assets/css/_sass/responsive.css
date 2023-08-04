@@ -1,6 +1,12 @@
 body .container .sidebar .header {
   display: none;
 }
+body .container .avatar {
+  display: block;
+}
+body .header .title, body .header .work {
+  text-align: left;
+}
 
 @media screen and (max-width: 1024px) {
   body {
@@ -24,8 +30,16 @@ body .container .sidebar .header {
   .container .main .header {
     display: none;
   }
+  .container .avatar {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+  }
   .header {
     display: block;
+  }
+  .header .title, .header .work {
+    text-align: center !important;
   }
   .header .title {
     margin: 0 auto;

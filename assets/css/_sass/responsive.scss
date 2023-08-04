@@ -5,6 +5,14 @@ body {
                 display: none;
             }
         }
+        .avatar {
+            display: block;
+        }
+    }
+    .header {
+        .title, .work {
+            text-align: left;
+        }
     }
 }
 
@@ -42,9 +50,17 @@ body {
                 display: none;
             }
         }
+        .avatar {
+            display: flex !important;
+            justify-content: center;
+            align-items: center;
+        }
     }
     .header {
         display: block;
+        .title, .work {
+            text-align: center !important;
+        }
         .title {
             margin:0 auto;
         }
