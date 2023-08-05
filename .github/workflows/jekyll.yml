@@ -45,7 +45,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
-          bundle lock --add-platform x86_64-linux
+          bundle lock --add-platform x64-mingw-ucrt
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
