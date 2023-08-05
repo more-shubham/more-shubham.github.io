@@ -9,4 +9,3 @@
     - frameworks
     - Database
     - Other Tools
-- change scrolles style
