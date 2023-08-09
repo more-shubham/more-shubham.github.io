@@ -1,8 +1,12 @@
 * {
     font-family: "Helvetica", "Arial", sans-serif;
     text-align: justify;
-    line-height: 1.5;
+    line-height: 1;
     user-select: none;
+}
+
+p {
+    line-height: 1.5;
 }
 
 ::-webkit-scrollbar {
