@@ -1,17 +1,24 @@
-@import "./_sass/base";
-@import "./_sass/print";
-@import "./_sass/responsive";
-@import "./_sass/mixins";
-@import "./_sass/skins/blue.scss";
+---
+---
 
-@import "./_sass/includes/header";
-@import "./_sass/includes/career-profile";
-@import "./_sass/includes/contact";
-@import "./_sass/includes/languages";
-@import "./_sass/includes/education";
-@import "./_sass/includes/skills";
-@import "./_sass/includes/experience";
-@import "./_sass/includes/publications";
-@import "./_sass/includes/projects";
-@import "./_sass/includes/volunteering";
-@import "./_sass/includes/avatar.scss";
+
+
+@charset 'UTF-8';
+
+@import "base";
+@import "print";
+@import "responsive";
+@import "mixins";
+@import "skins/blue.scss";
+
+@import "includes/header";
+@import "includes/career-profile";
+@import "includes/contact";
+@import "includes/languages";
+@import "includes/education";
+@import "includes/skills";
+@import "includes/experience";
+@import "includes/publications";
+@import "includes/projects";
+@import "includes/volunteering";
+@import "includes/avatar.scss";
