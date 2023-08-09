@@ -5,6 +5,10 @@
     user-select: none;
 }
 
+#switch {
+    display: none;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
