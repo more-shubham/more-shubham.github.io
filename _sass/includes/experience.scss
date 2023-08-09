@@ -17,9 +17,20 @@
         }
         .details {
             @include body-text;
+            list-style-type: square;
+            margin: 0px;
+            padding: 0px 0px 0px 18px;
+
+            li {
+                line-height: 1.5
+            }
+
         }
         .technologies {
             @include body-text;
+            span {
+                font-weight: 600;
+            }
         }
     }
 }

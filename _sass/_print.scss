@@ -1,12 +1,12 @@
 @media print {
     @page {
-        size: A4;
+        size: 200mm 300mm;
+        margin: None;
     }
+
     .container {
         margin:0;
-        // padding:0 0;
         box-shadow: none;
-        background-color: #ffffff;
         width: 1000px;
         .container-block {
             padding:0;
@@ -16,5 +16,19 @@
                 display: none;
             }
         }
+    }
+
+    .nextPage {
+        page-break-before: always;
+        break-before: page;
+    }
+
+    :root {
+        --bg-color: #f1f1f1 !important;
+        --bg-color-cv: #ffffff !important;
+        --fg-color: #00629b !important;
+        --fg-color-dark: #023b5b !important;
+        --fg-color-body: #5e6369 !important;
+        --fg-color-title-sm: #688293 !important;
     }
 }

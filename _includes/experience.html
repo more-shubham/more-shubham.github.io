@@ -11,8 +11,14 @@
                 {{exp.company}}
                 <span class="time">{{exp.time}}</span>
             </div>
-            <div class="details">{{exp.details}}</div>
-            <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
+            <ul class="details">
+                {% for details in exp.details %}
+                <li>{{details}}</li>
+                {% endfor %}
+
+                <!-- {{exp.details}} -->
+            </ul>
+            <p class="technologies"><span>Technologies Used</span>: {{exp.technologies_used}}</p>
         </div>
 
     {% endfor %}

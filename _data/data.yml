@@ -10,7 +10,7 @@ contact:
   github: more-shubham
   linkedin: dev-shubham-more
   phone: +91 9325719101
-  web: www.shubham-more.com
+  web: shubham-more.com
   address: Pune, Maharastra, India
   gitlab:
   twitter:
@@ -25,57 +25,75 @@ education:
     time: 2019-2021
     university: Shivaji Polytechnic,
 
-#   - degree: BSc in Computer Science
-#     time: 2010-2014
-#     university: Ionian University
-
 skills:
-  - category: Backend
+  - category: Front-end Development
     skill:
-      - Node Js
-      - Nest Js
-  - category: Frontend
+      - HTML, CSS, JS proficiency
+      - React or Vue familiarity
+  - category: Back-end Development
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Node.js expertise
+      - RESTful API design
+      - Express.js framework
+      - NoSQL Database interaction
+  - category: Database Management
     skill:
-      - Docker
-      - Kubernetes
+      - MongoDB or Redis knowledge
+      - Schema Design
+  - category: Version Control/Git
+    skill:
+      - Git proficiency
+      - Branching and merging skills
+  - category: Development Tools
+    skill:
+      - Visual Studio Code (IDE)
+      - Command line proficiency
+  - category: Other Skills
+    skill:
+      - Problem-solving
+      - CI/CD pipeline familiarity
+      - Debugging techniques
+
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-  fugiat nulla pariatur.
+  Full Stack Developer with 1.6 years experience in Node.js, Nuxt.js, and Express.js.
+  Adept at building scalable web applications with a focus on optimizing RESTful APIs
+  and server-side rendering (SSR) using Nuxt.js and Vue.js. Skilled in database management
+  with MongoDB, ensuring seamless collaboration with UI/UX designers to produce visually
+  stunning and user-centric interfaces. Proficient in implementing secure authentication
+  protocols using JWT and Firebase Authentication, alongside dynamic image handling via AWS S3.
+  Demonstrated expertise in e-commerce applications, multi-tenant architectures, payment
+  gateway integrations, and real-time communication solutions. Combines technical prowess with
+  a strong design sense to deliver solutions that emphasize user experience and security.
+  Continually adapts and learns the latest technologies.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
-    technologies_used: |
-      Go, Angular, Typescript, C++
+  - role: Jr. Software Developer
+    time: 2022-Present
+    company: IRYS (India) R&D Private Limited
+    details:
+      - Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js.
+      - Pioneered the implementation of SSR and CSR using Nuxt.js and Vue.js, achieving improved loading performance and enhancing SEO reach.
+      - Managed MongoDB operations, facilitating efficient data storage and retrieval, ensuring robust backend support for our scalable applications.
+      - Acted as the bridge between UI/UX designers and front-end developers, ensuring seamless and aesthetic integration of designs into the development workflow.
+      - Orchestrated secure authentication and authorization frameworks utilizing JWT and Firebase, strengthening application security.
+      - Expertly managed AWS S3, overseeing dynamic image uploading and systematic cloud storage.
+      - Spearheaded the development of Inventory Management Systems, ensuring timely product tracking and efficient stock management.
+      - Integrated diverse payment gateways like Razorpay, Stripe, Instamojo, and Urway, offering multiple transaction options to users.
+      - Innovated the E-Commerce landscape by launching a cutting-edge application supporting multi-language and RTL, reaching a wider user base.
+      - Implemented multi-tenant architecture, providing unified data management across diverse client databases.
+      - Prioritized user data protection by introducing a secure Firebase authentication mechanism.
+      - Conceptualized and developed a virtual try-on application, leading to enriched user interactions and diminishing product return rates.
+      - Championed the creation of Single Page Applications, delivering an uninterrupted and dynamic user experience.
+      - Enhanced overall system efficacy by initiating task automation systems and performance optimization tools, including BullMQ and a Redis-based queue system.
+      - Pioneered real-time communication using Socket.io, fostering instant updates and collaborations.
+      - Oversaw bulk image management in AWS S3, streamlining file storage and access processes.
+      - Introduced dynamic CSS export capabilities through HTTP requests, adapting styling based on real-time data conditions.
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
     technologies_used: |
-      Python, Tensorflow, Keras, Matlab
+      Node Js, Nuxt Js, Vuex & Pinia, Vuetify js, Tailwind CSS, Express js, Typescript, Socket IO
 
 # publications:
 #   - title: Random title of paper. An interesting one.
@@ -89,17 +107,21 @@ experience:
 #     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Amolite Fincorp
+    link: https://more-shubham.github.io/project/
+    details:
+      - 'Static Website with a Dynamic Touch: "Amolite Fincorp" is a static website that defies convention. Through my skills in JavaScript and jQuery, I have integrated interactive elements and smooth animations, giving the website a dynamic and engaging feel.'
+      - 'Responsive Design: Emphasizing my proficiency in Bootstrap, the website seamlessly adapts to various devices and screen sizes. Whether viewed on a desktop, tablet, or smartphone, "Amolite Fincorp" provides a consistent and optimized user experience.'
+      - "Visual Appeal with Owl Carousel: The incorporation of the Owl Carousel CDN has elevated the website's visual appeal. Captivating carousels dynamically display financial data and trends, showcasing my ability to integrate external resources effectively."
+      - 'Intuitive User Experience: Through meticulous HTML and CSS coding, I have created a user-friendly interface for "Amolite Fincorp." Navigating through the website is smooth and intuitive, offering visitors a seamless experience.'
+      - 'Finance-Oriented Platform: "Amolite Fincorp" serves as a finance app, offering a range of financial tools and resources. The website exemplifies my ability to develop functional and purpose-driven projects tailored to specific industries.'
 
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+
+  # - title: Cool Project
+  #   link: #
+  #   details: |
+  #     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  #     tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 # volunteering:
