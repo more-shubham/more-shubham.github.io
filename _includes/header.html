@@ -4,9 +4,9 @@
       <h2 class="work">{{site.data.data.work}}</h2>
     </div>
     {% if site.data.data.support_dark_mode%}
-    <label for="switch">
+    <label>
         <input type="checkbox" name="mode" class="toggle-dark"></input>
-        <i data-feather="moon" fill="var(--fg-color)"></i>
+        <i id="moon" data-feather="moon" fill="var(--fg-color)"></i>
       </label>
     {%endif%}
   </div>
