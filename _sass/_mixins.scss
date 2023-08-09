@@ -29,5 +29,6 @@
 
 @mixin body-text {
     color: var(--fg-color-body);
+    line-height: 1.5;
     font-size: 14px;
 }
