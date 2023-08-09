@@ -1,0 +1,19 @@
+.hobbies {
+    margin-bottom: 20px;
+    .title {
+        @include header;
+    }
+    .items {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 12px;
+    }
+    .item {
+        @include body-text;
+        border: 1px solid var(--fg-color-title-sm);
+        padding: 1px 6px;
+        border-radius: 20px;
+        font-weight: 600;
+    }
+}
