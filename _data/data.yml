@@ -11,7 +11,9 @@ contact:
   linkedin: dev-shubham-more
   phone: +91 9325719101
   web: shubham-more.com
-  address: Pune, Maharastra, India
+  address:
+    name:  Pune, Maharastra, India
+    url: https://goo.gl/maps/WrwTJBAyB1pap6pVA
   gitlab:
   twitter:
 
@@ -57,7 +59,7 @@ skills:
 
 # Profile
 profile: |
-  Full Stack Developer with 1.6 years experience in Node.js, Nuxt.js, and Express.js.
+  Full Stack Developer with 1.5 years experience in Node.js, Nuxt.js, and Express.js.
   Adept at building scalable web applications with a focus on optimizing RESTful APIs
   and server-side rendering (SSR) using Nuxt.js and Vue.js. Skilled in database management
   with MongoDB, ensuring seamless collaboration with UI/UX designers to produce visually
@@ -71,7 +73,7 @@ profile: |
 # Experience
 experience:
   - role: Jr. Software Developer
-    time: 2022-Present
+    time: Feb 2022 - Present (1 year 6 months)
     company: IRYS (India) R&D Private Limited
     details:
       - Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js.

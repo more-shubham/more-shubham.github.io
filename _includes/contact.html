@@ -6,8 +6,8 @@
     {% if contact.address %}
     <div class="contact-item">
         <i data-feather="map-pin"></i>
-        <a href="#">
-            {{contact.address}}
+        <a href="{{ contact.address.url }}" target="_blank">
+            {{contact.address.name}}
         </a>
     </div>
     {% endif %}
@@ -15,7 +15,7 @@
     {% if contact.web %}
     <div class="contact-item">
         <i data-feather="globe"></i>
-        <a href="https://{{contact.web}}">
+        <a href="https://{{contact.web}}" target="_blank">
             {{contact.web}}
         </a>
     </div>
@@ -24,7 +24,7 @@
     {% if contact.email %}
     <div class="contact-item">
         <i data-feather="mail"></i>
-        <a href="mailto:{{contact.email}}">
+        <a href="mailto:{{contact.email}}" target="_blank">
             {{contact.email}}
         </a>
     </div>
@@ -33,7 +33,7 @@
     {% if contact.phone %}
     <div class="contact-item">
         <i data-feather="phone"></i>
-        <a href="tel:{{contact.phone}}">
+        <a href="tel:{{contact.phone}}" target="_blank">
             {{contact.phone}}
         </a>
     </div>
@@ -42,7 +42,7 @@
     {% if contact.github %}
     <div class="contact-item">
         <i data-feather="github"></i>
-        <a href="https://github.com/{{contact.github}}">
+        <a href="https://github.com/{{contact.github}}" target="_blank">
             {{contact.github}}
         </a>
     </div>
@@ -51,7 +51,7 @@
     {% if contact.linkedin %}
     <div class="contact-item">
         <i data-feather="linkedin"></i>
-        <a href="https://linkedin.com/in/{{contact.linkedin}}">
+        <a href="https://linkedin.com/in/{{contact.linkedin}}" target="_blank">
             {{contact.linkedin}}
         </a>
     </div>
@@ -60,7 +60,7 @@
     {% if contact.twitter %}
     <div class="contact-item">
         <i data-feather="twitter"></i>
-        <a href="https://twitter.com/{{contact.twitter}}">
+        <a href="https://twitter.com/{{contact.twitter}}" target="_blank">
             {{contact.twitter}}
         </a>
     </div>
@@ -69,7 +69,7 @@
     {% if contact.gitlab %}
     <div class="contact-item">
         <i data-feather="gitlab"></i>
-        <a href="https://gitlab.com/{{contact.gitlab}}">
+        <a href="https://gitlab.com/{{contact.gitlab}}" target="_blank">
             {{contact.gitlab}}
         </a>
     </div>
