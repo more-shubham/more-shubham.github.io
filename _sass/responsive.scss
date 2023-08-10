@@ -57,6 +57,7 @@ body {
         }
     }
     .header {
+        margin: 0 !important;
         display: block;
         .title, .work {
             text-align: center !important;
@@ -71,6 +72,14 @@ body {
             position: absolute;
             top: 25px;
             right: 15px;
+        }
+    }
+    .download{
+        padding: unset !important;
+        a{
+            display: block;
+            width: fit-content;
+            margin: 0 auto;
         }
     }
 }

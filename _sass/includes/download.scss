@@ -1,0 +1,13 @@
+.download{
+    padding: 0 0 26px 0;
+    a {
+        color: var(--fg-color);
+        padding: 6px 10px;
+        border: 2px solid var(--fg-color);
+        font-weight: 600;
+        width: 130px;
+        display: block;
+        text-align: center;
+        text-decoration: none;
+    }
+}
