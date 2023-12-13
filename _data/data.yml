@@ -59,7 +59,7 @@ skills:
 
 # Profile
 profile: |
-  Full Stack Developer with 1 year 9 months experience in Node.js, Nuxt.js, and Express.js.
+  Full Stack Developer with 2+ years experience in Node.js, Nuxt.js, and Express.js.
   Adept at building scalable web applications with a focus on optimizing RESTful APIs
   and server-side rendering (SSR) using Nuxt.js and Vue.js. Skilled in database management
   with MongoDB, ensuring seamless collaboration with UI/UX designers to produce visually
@@ -73,7 +73,7 @@ profile: |
 # Experience
 experience:
   - role: Jr. Software Developer
-    time: Feb 2022 - Present (1 year 9 months)
+    time: Feb 2022 - Present (1 year 11 months)
     company: IRYS (India) R&D Private Limited
     details:
       - Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js.
@@ -96,6 +96,18 @@ experience:
 
     technologies_used: |
       Node Js, Nuxt Js, Vuex & Pinia, Vuetify js, Tailwind CSS, Express js, Typescript, Socket IO
+
+  - role: Jr. Software Developer (Internship)
+    time: Aug 2021 - Sep 2021 (2 months)
+    company: ProAzure Software Solutions Pvt. Ltd.
+    details:
+      - RPA (Robotic Process Automation) for Desktop and Website Automation
+      - AI and Machine Learning
+      - Web Development using PHP
+      - WordPress, including E-commerce Website Setup, Theme Design, and Plugin Development
+
+    technologies_used: |
+      HTML, CSS, Javascript, RPA, AI, Machine Learning, WordPress, WordPress Theme, WordPress Plugin, SEO, Bootstrap
 
 # publications:
 #   - title: Random title of paper. An interesting one.
