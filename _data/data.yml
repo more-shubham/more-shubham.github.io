@@ -72,24 +72,16 @@ experience:
     time: Feb 2022 - Present (1 year 11 months)
     company: IRYS (India) R&D Private Limited
     details:
-      - Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js.
-      - Pioneered the implementation of SSR and CSR using Nuxt.js and Vue.js, achieving improved loading performance and enhancing SEO reach.
-      - Managed MongoDB operations, facilitating efficient data storage and retrieval, ensuring robust backend support for our scalable applications.
-      - Acted as the bridge between UI/UX designers and front-end developers, ensuring seamless and aesthetic integration of designs into the development workflow.
-      - Orchestrated secure authentication and authorization frameworks utilizing JWT and Firebase, strengthening application security.
-      - Expertly managed AWS S3, overseeing dynamic image uploading and systematic cloud storage.
-      - Spearheaded the development of Inventory Management Systems, ensuring timely product tracking and efficient stock management.
-      - Integrated diverse payment gateways like Razorpay, Stripe, Instamojo, and Urway, offering multiple transaction options to users.
-      - Innovated the E-Commerce landscape by launching a cutting-edge application supporting multi-language and RTL, reaching a wider user base.
-      - Implemented multi-tenant architecture, providing unified data management across diverse client databases.
-      - Prioritized user data protection by introducing a secure Firebase authentication mechanism.
-      - Conceptualized and developed a virtual try-on application, leading to enriched user interactions and diminishing product return rates.
-      - Championed the creation of Single Page Applications, delivering an uninterrupted and dynamic user experience.
-      - Enhanced overall system efficacy by initiating task automation systems and performance optimization tools, including BullMQ and a Redis-based queue system.
-      - Pioneered real-time communication using Socket.io, fostering instant updates and collaborations.
-      - Oversaw bulk image management in AWS S3, streamlining file storage and access processes.
-      - Introduced dynamic CSS export capabilities through HTTP requests, adapting styling based on real-time data conditions.
-
+      - "Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js."
+      - "We completed two projects: e-commerce and inventory."
+      - "For e-commerce, a single application renders multiple clients. Multiple clients are satisfied, and the website receives 1-2k daily views."
+      - "The inventory app is for merchants and works like a CMS dashboard, serving multiple clients."
+      - "I have integrated many payment gateways such as Stripe, Razorpay, Ipay88, Instamojo, Qfpay, and Urway."
+      - "I have created a CMS dashboard for e-commerce that enables users to manage products, inventory, orders, pages ( blogs, product lists, information, forms), themes, website configuration, and more."
+      - "I have created various e-commerce themes with custom UI components, including product filters, card management, and order tracking to meet client requirements."
+      - "I have added new sections to manage the blog, including a content management system (CMS)."
+      - "I have added an RFID tag editor, mapper, printer, and user role management on the inventory app. Additionally, I have implemented image importing using AWS Lambda to format custom image sizes from dynamic resources, with status handling for browsers, FTP, and APIs."
+      - "I have added a Google Map UI, which supports light and dark themes and can display multiple custom markers with on-click actions."
     technologies_used: |
       Node Js, Nuxt Js, Vuex & Pinia, Vuetify js, Tailwind CSS, Express js, Typescript, Socket IO
 
@@ -97,11 +89,10 @@ experience:
     time: Aug 2021 - Sep 2021 (2 months)
     company: ProAzure Software Solutions Pvt. Ltd.
     details:
-      - RPA (Robotic Process Automation) for Desktop and Website Automation
-      - AI and Machine Learning
-      - Web Development using PHP
-      - WordPress, including E-commerce Website Setup, Theme Design, and Plugin Development
-
+      - "RPA Automation I have created so much automation to handle so many test cases"
+      - "I have learned how to use AI and Machine Learning"
+      - "I have created e-commerce using PHP"
+      - "I have created 7 WordPress themes for e-commerce and blogs"
     technologies_used: |
       HTML, CSS, Javascript, RPA, AI, Machine Learning, WordPress, WordPress Theme, WordPress Plugin, SEO, Bootstrap
 
@@ -120,12 +111,12 @@ projects:
   - title: Amolite Fincorp
     link: https://more-shubham.github.io/project/
     details:
-      - 'Static Website with a Dynamic Touch: "Amolite Fincorp" is a static website that defies convention. Through my skills in JavaScript and jQuery, I have integrated interactive elements and smooth animations, giving the website a dynamic and engaging feel.'
-      - 'Responsive Design: Emphasizing my proficiency in Bootstrap, the website seamlessly adapts to various devices and screen sizes. Whether viewed on a desktop, tablet, or smartphone, "Amolite Fincorp" provides a consistent and optimized user experience.'
-      - "Visual Appeal with Owl Carousel: The incorporation of the Owl Carousel CDN has elevated the website's visual appeal. Captivating carousels dynamically display financial data and trends, showcasing my ability to integrate external resources effectively."
-      - 'Intuitive User Experience: Through meticulous HTML and CSS coding, I have created a user-friendly interface for "Amolite Fincorp." Navigating through the website is smooth and intuitive, offering visitors a seamless experience.'
-      - 'Finance-Oriented Platform: "Amolite Fincorp" serves as a finance app, offering a range of financial tools and resources. The website exemplifies my ability to develop functional and purpose-driven projects tailored to specific industries.'
-
+      - "This website is live and it's ranking at the top"
+      - "I have successfully added SEO and developed a responsive website using HTML, CSS, JS, Jquery, Bootstrap"
+      - "It's Deployment and Management handled by me"
+      - "Added an external script, Owl Carousel"
+    technologies_used: |
+      HTML, CSS, Javascript, SEO, Bootstrap, Jquery, Owl Carousel
 
   # - title: Cool Project
   #   link: #
@@ -144,6 +135,6 @@ projects:
 #       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 hobbies:
-  - Gamming
+  - Mobile Gaming
   - Painting
-  - Technology or Coding
+  - Learn new Technology and Coding
