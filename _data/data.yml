@@ -59,16 +59,12 @@ skills:
 
 # Profile
 profile: |
-  Full Stack Developer with 2+ years experience in Node.js, Nuxt.js, and Express.js.
-  Adept at building scalable web applications with a focus on optimizing RESTful APIs
-  and server-side rendering (SSR) using Nuxt.js and Vue.js. Skilled in database management
-  with MongoDB, ensuring seamless collaboration with UI/UX designers to produce visually
-  stunning and user-centric interfaces. Proficient in implementing secure authentication
-  protocols using JWT and Firebase Authentication, alongside dynamic image handling via AWS S3.
-  Demonstrated expertise in e-commerce applications, multi-tenant architectures, payment
-  gateway integrations, and real-time communication solutions. Combines technical prowess with
-  a strong design sense to deliver solutions that emphasize user experience and security.
-  Continually adapts and learns the latest technologies.
+  I am a Software Engg. ( MEVN Stack Developer ) with over two years of experience in Node JS, Vue JS, Nuxt JS, Express JS, Typescript, MongoDB, and AWS Cloud. My expertise in clean code with documentation, team collaboration, scalable applications, Server-side rendering (SSR), Client-side rendering (CSR), Client-side generating (CSG), Search engine optimization (SEO), Project management, database & server management and maintenance, Jest & Selenium using Testing technologies, GitHub & Bitbucket Pipeline, Docker, Automation, React JS, Next JS, Nest JS, and Figma.
+
+  In addition to this, I am proficient in implementing secure-auth protocols using JWT, 0auth, and Firebase auth. I have experience in handling images & data import using AWS Lambda. My demonstrated experience includes e-commerce applications, multi-tenant architectures, payment gateway integrations, and real-time communication solutions.
+
+  I always emphasize user experience and security while delivering solutions. I continually adapt and learn the latest technology to stay up to date with the latest trends in the IT world.
+  
 
 # Experience
 experience:
