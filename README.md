@@ -1,14 +1,35 @@
-# Personal Resume Website
+### Technical Expertise
+- Object-oriented programming (OOP) principles and design patterns
+- Agile methodology (Scrum)
+- Cloud platforms (AWS, Azure)
+- Version control systems (Git)
+- Relational databases (MySQL, MongoDB, Oracle)
+- Automated testing procedures
+- CI/CD pipelines (Jenkins, Travis CI)
+- API integration
+- Web development (front-end and back-end)
 
-Developed using Jekyll, Ruby, HTML, SCSS, JavaScript
+### Software Development
+- Designed, developed, and implemented software applications
+- Improved system performance, scalability, and reliability
+- Debugged and resolved software issues
+- Contributed to reusable code libraries and components
+- Implemented automated testing procedures
 
-[![Deploy to Pages](https://github.com/More-Shubham/more-shubham.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/More-Shubham/more-shubham.github.io/actions/workflows/jekyll.yml)
+### Leadership and Collaboration
+- Led team meetings and discussions
+- Participated in code reviews and knowledge sharing
+- Collaborated with management and users to develop e-commerce strategies
+- Worked with network personnel and web site hosted agencies
 
-- Responsive design for optimal viewing across devices.  
-- Theme switching based on user preference.  
-- Static site generation (SSG) with Jekyll for performance.  
-- Integrated Ruby for automation.  
-- Enhanced user experience with JavaScript.  
-- Clean print stylesheets for desktop and mobile.  
-- Git for version control; GitHub Actions for deployment.  
-- PDF includes link to live website for easy access.
+### Professional Development
+- Stayed updated with industry changes
+- Participated in ongoing training and professional conferences
+- Maintained understanding of current web technologies and programming practices
+
+### Additional Skills
+- Database schema design
+- Web application security (firewalls, encryption)
+- Web site testing and maintenance
+- Technical documentation and writing
+- Root cause analysis and problem-solving
