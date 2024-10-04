@@ -68,8 +68,8 @@ profile: |
 
 # Experience
 experience:
-  - role: Jr. Software Developer
-    time: Feb 2022 - Present (1 year 11 months)
+  - role: Software Developer
+    time: Feb 2022 - Present (2 year 8 months)
     company: IRYS (India) R&D Private Limited
     details:
       - "Led a team in developing scalable web applications, leveraging technologies like Node.js, Nuxt.js, and Express.js."
@@ -85,17 +85,6 @@ experience:
     technologies_used: |
       Node Js, Nuxt Js, Vuex & Pinia, Vuetify js, Tailwind CSS, Express js, Typescript, Socket IO
 
-  - role: Jr. Software Developer (Internship)
-    time: Aug 2021 - Sep 2021 (2 months)
-    company: ProAzure Software Solutions Pvt. Ltd.
-    details:
-      - "RPA Automation I have created so much automation to handle so many test cases"
-      - "I have learned how to use AI and Machine Learning"
-      - "I have created e-commerce using PHP"
-      - "I have created 7 WordPress themes for e-commerce and blogs"
-    technologies_used: |
-      HTML, CSS, Javascript, RPA, AI, Machine Learning, WordPress, WordPress Theme, WordPress Plugin, SEO, Bootstrap
-
 # publications:
 #   - title: Random title of paper. An interesting one.
 #     link: "#"
@@ -108,19 +97,6 @@ experience:
 #     conference: Some conference again, 2018
 
 projects:
-  - title: Amolite Fincorp Website
-    link: https://github.com/more-shubham/amolite-fincorp
-    details:
-      - "Comprehensive financial management platform for individuals and businesses."
-      - "Features budgeting, investment tracking, and financial planning tools."
-      - "Intuitive user interfaces and customizable options for expense monitoring and investment analysis."
-      - "Advanced data analytics and secure encryption for data privacy and security."
-      - "Social media integration for enhanced user engagement."
-      - "Domain-based email setup for professional communication."
-      - "Deployed on AWS server for scalability and reliability."
-    technologies_used: |
-      HTML, CSS, Javascript, SEO, Bootstrap, Jquery, Owl Carousel
-  
   - title: Personal Resume Website
     link: https://github.com/more-shubham/more-shubham.github.io
     details:
@@ -154,4 +130,3 @@ projects:
 hobbies:
   - Painting
   - Learn new Technology and Coding
-  - Mobile Gaming
